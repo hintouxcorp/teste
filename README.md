@@ -1,2 +1,3 @@
-# Olá git estou apenas te testando
-conteúdo será editado
+# GIT
+pratica simples do git, repositório específico para treinamento de git
+
