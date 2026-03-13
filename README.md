@@ -16,28 +16,28 @@ PyQt5
 
 ## Como instalar:
 clone o repositório com:
-´´´bash 
+```bash 
 git clone git@github.com:hintouxcorp/teste.git
-´´´
+```
 após isso crie um ambiente virtual com:
-´´´python 
+```python 
 python -m venv venv
-´´´
+```
 e ative com:
 
 **Windows**
-´´´python
+```python
 venv/Scripts/Activate
-´´´
+```
 **Linux**
-´´´python
+```python
 source venv/bin/Activate
-´´´
+```
 
 Após isso instalamos as dependências com:
-´´´python
+```python
 pip install -r requirements.txt
-´´´
+```
 
 ## Como Usar:
 **1.** Abra o programa
