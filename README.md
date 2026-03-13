@@ -11,8 +11,8 @@
 Taskflow é um gerenciador de tarefas para ajudar a auxiliar na organização de suas tarefas sejam cotidianas ou tarefas específicas
 
 ## Tecnologias Utilizadas:
-Python 3.8.0
-PyQt5
+- Python 3.8.0
+- PyQt5
 
 ## Como instalar:
 clone o repositório com:
