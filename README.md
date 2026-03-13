@@ -15,6 +15,7 @@ mapa em tempo real dos clientes:
 ---
 
 ## Funcionalidades
+
 - adicionar pin no mapa (cliente)
 - preencher formulário no pin
 - visualizar pins pelo estado
@@ -27,6 +28,7 @@ mapa em tempo real dos clientes:
 ---
 
 ## tecnologias
+
 python 3.8.0
 django
 django rest framework
@@ -40,5 +42,54 @@ api
 
 ## instalação
 
-1. crie um ambiente virtual para instalar as dependências com:
-```python<br>python -m venv venv<br>```
+1. Faça um clone do repositório com:
+```bash
+git clone git@github.com:hintouxcorp/teste.git
+```
+
+2. Logo após clonar o repositório crie um ambiente virtual para instalar as dependências com:
+```python
+python -m venv venv
+```
+
+3. A seguir ative o ambiente virtual caso ainda não o ativou:
+
+*Windows*
+```python
+venv/Scripts/Activate
+```
+
+*Linux*
+```python
+source venv/bin/Activate
+```
+
+4. Após isso instale as dependência com:
+```python
+pip install -r requirements.txt
+```
+
+**Com esses passos você já poderá utiliza-lo**
+
+---
+
+## Como usar:
+
+1. Inicie o servidor com:
+```python
+python manage.py runserver
+```
+2. Navegue nas opção Mapa
+3. Marque um local como base
+4. Escolha o range da base
+5. Escolha um local
+6. Preencha o formulário daquele local
+7. Crie um produto
+8. Associe um produto aquele local
+9. Utilize o relatório
+10. Navegue até o funil
+
+---
+
+## Licença:
+Este projeto está sob a licença MIT
