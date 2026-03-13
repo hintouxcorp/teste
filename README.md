@@ -23,3 +23,22 @@ mapa em tempo real dos clientes:
 - criar produtos
 - associar produtos a clientes
 - funil de vendas
+
+---
+
+## tecnologias
+python 3.8.0
+django
+django rest framework
+react
+typescript
+html
+css
+api
+
+---
+
+## instalação
+
+1. crie um ambiente virtual para instalar as dependências com:
+```python<br>python -m venv venv<br>```
