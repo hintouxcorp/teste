@@ -1,11 +1,11 @@
 # TaskFlow
 
 ## Funcionalidade:
-**1.** Concluir tarefas
-**2.** Ordenar Tarefas
-**3.** Filtrar arefas
-**4.** Salvar tarefas concluídas
-**5.** Carregar tarefas Salvas
+1. Concluir tarefas
+2. Ordenar tarefas
+3. Filtrar tarefas
+4. Salvar tarefas concluídas
+5. Carregar tarefas Salvas
 
 ## Descrição:
 Taskflow é um gerenciador de tarefas para ajudar a auxiliar na organização de suas tarefas sejam cotidianas ou tarefas específicas
@@ -40,10 +40,10 @@ pip install -r requirements.txt
 ```
 
 ## Como Usar:
-**1.** Abra o programa
-**2.** Escolha a terefa
-**3.** Selecione se concluiu ou não
-**4.** utilize os filtros para facilitar as tarefas
+1. Abra o programa
+2. Escolha a terefa
+3. Selecione se concluiu ou não
+4. utilize os filtros para facilitar as tarefas
 
 ## Licença:
 Esse projeto está sob a licença MIT
