@@ -13,9 +13,13 @@ Gerenciador de Tarefas com o proposito de melhorar a experiência do usuário
 ## Descrição:
 Taskflow é um gerenciador de tarefas para ajudar a auxiliar na organização de suas tarefas sejam cotidianas ou tarefas específicas
 
+---
+
 ## Tecnologias Utilizadas:
 - Python 3.8.0
 - PyQt5
+
+---
 
 ## Como instalar:
 clone o repositório com:
@@ -41,12 +45,15 @@ Após isso instalamos as dependências com:
 ```python
 pip install -r requirements.txt
 ```
+---
 
 ## Como Usar:
 1. Abra o programa
 2. Escolha a terefa
 3. Selecione se concluiu ou não
 4. utilize os filtros para facilitar as tarefas
+
+---
 
 ## Licença:
 Esse projeto está sob a licença MIT
