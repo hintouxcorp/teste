@@ -8,8 +8,9 @@ O prospector de Geocalização ajuda o usuário a registrar suas vendas possibil
 para ajudar na visualização dos dados para melhor insights.
 
 
-mapa em tempo real dos clientes
-![imagem do mapa](map.jpg)
+mapa em tempo real dos clientes:
+
+<img src="map.jpg" width="300">
 
 ---
 
