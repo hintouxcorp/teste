@@ -2,7 +2,9 @@
 
 Um gerenciador de prospecção com capacidade de registrar clientes no mapa, criar raios de atuação com registros de vendas e relatórios automatizados.
 
-![status](https://img.shields.io/badge/Em%20desenvolvimento-8A2BE2)
+![desenvolvimento](https://img.shields.io/badge/Em%20Desenvolvimento-8A2BE2)
+![python](https://img.shields.io/badge/python-3.8.0-blue)
+![mit](https://img.shields.io/badge/license-MIT-yellow)
 
 ## 📝 Descrição
 
