@@ -29,14 +29,14 @@ mapa em tempo real dos clientes:
 
 ## tecnologias
 
-python 3.8.0
-django
-django rest framework
-react
-typescript
-html
-css
-api
+- python 3.8.0
+- django
+- django rest framework
+- react
+- typescript
+- html
+- css
+- api
 
 ---
 
@@ -54,12 +54,12 @@ python -m venv venv
 
 3. A seguir ative o ambiente virtual caso ainda não o ativou:
 
-*Windows*
+**Windows**
 ```python
 venv/Scripts/Activate
 ```
 
-*Linux*
+**Linux**
 ```python
 source venv/bin/Activate
 ```
