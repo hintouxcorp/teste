@@ -2,7 +2,9 @@
 
 Um gerenciador de prospecção com capacidade de registrar clientes no mapa, criar raios de atuação com registros de vendas e relatórios automatizados.
 
-## Descrição
+![status](https://img.shields.io/badge/Em%20desenvolvimento-8A2BE2)
+
+## 📝 Descrição
 
 O prospector de Geocalização ajuda o usuário a registrar suas vendas possibilitando marcação de visitas a clientes ajudando a criar funil de vendas além de ter dashboard interativo
 para ajudar na visualização dos dados para melhor insights.
@@ -14,7 +16,7 @@ mapa em tempo real dos clientes:
 
 ---
 
-## Funcionalidades
+## 🛠️ Funcionalidades
 
 - adicionar pin no mapa (cliente)
 - preencher formulário no pin
@@ -27,7 +29,7 @@ mapa em tempo real dos clientes:
 
 ---
 
-## tecnologias
+## 🖥️ Tecnologias
 
 - python 3.8.0
 - django
@@ -40,7 +42,7 @@ mapa em tempo real dos clientes:
 
 ---
 
-## instalação
+## ⚙️ Instalação
 
 1. Faça um clone do repositório com:
 ```bash
@@ -73,7 +75,7 @@ pip install -r requirements.txt
 
 ---
 
-## Como usar:
+## 📋 Como usar:
 
 1. Inicie o servidor com:
 ```python
@@ -91,5 +93,5 @@ python manage.py runserver
 
 ---
 
-## Licença:
+## ⚖️ Licença:
 Este projeto está sob a licença MIT
