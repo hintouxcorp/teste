@@ -1,4 +1,4 @@
-# <i class="fa-duotone fa-regular fa-location-check"><i> Prospector de Geolocalização
+# <i class="fa-duotone fa-regular fa-location-check"></i> Prospector de Geolocalização
 
 Um gerenciador de prospecção com capacidade de registrar clientes no mapa, criar raios de atuação com registros de vendas e relatórios automatizados.
 
