@@ -1,4 +1,5 @@
 # TaskFlow
+Gerenciador de Tarefas com o proposito de melhorar a experiência do usuário
 
 ## Funcionalidade:
 1. Concluir tarefas
@@ -6,6 +7,8 @@
 3. Filtrar tarefas
 4. Salvar tarefas concluídas
 5. Carregar tarefas Salvas
+
+---
 
 ## Descrição:
 Taskflow é um gerenciador de tarefas para ajudar a auxiliar na organização de suas tarefas sejam cotidianas ou tarefas específicas
